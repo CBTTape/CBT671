@@ -1,0 +1,6 @@
+2025-04-13 21:42:22.096036 - Received CBT.V508.FILE671.PDS from FILE671.XMI 
+2025-04-13 21:42:22.096812 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:42:22.096903 - Found $$DOC.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/$$DOC
+2025-04-13 21:42:22.096968 - Found @FILE671.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/@FILE671
+2025-04-13 21:42:22.097033 - Found ZOOM.rexx (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/ZOOM
+2025-04-13 21:42:22.097092 - Found ZOOMP.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/ZOOMP
