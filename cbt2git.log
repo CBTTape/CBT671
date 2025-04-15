@@ -1,6 +1,6 @@
-2025-04-15 04:37:59.454611 - Received CBT.V508.FILE671.PDS from FILE671.XMI 
-2025-04-15 04:37:59.455547 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:37:59.456038 - Found $$DOC.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/$$DOC
-2025-04-15 04:37:59.456338 - Found @FILE671.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/@FILE671
-2025-04-15 04:37:59.456559 - Found ZOOM.rexx (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/ZOOM
-2025-04-15 04:37:59.456749 - Found ZOOMP.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/ZOOMP
+2025-04-15 23:15:30.464315 - Received CBT.V508.FILE671.PDS from FILE671.XMI 
+2025-04-15 23:15:30.465422 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:15:30.465723 - Found $$DOC.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/$$DOC
+2025-04-15 23:15:30.465771 - Found @FILE671.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/@FILE671
+2025-04-15 23:15:30.465993 - Found ZOOM.rexx (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/ZOOM
+2025-04-15 23:15:30.466176 - Found ZOOMP.txt (text/plain) in CBT.V508.FILE671.PDS, moved to PDS/ZOOMP
